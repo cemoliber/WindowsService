@@ -1,0 +1,13 @@
+﻿'C:\Users\Cemalettin\Desktop\Csharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Cemalettin\Desktop\Csharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Cemalettin\Desktop\Csharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Cemalettin\Desktop\Csharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Cemalettin\Desktop\Csharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Cemalettin\Desktop\Csharp\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
